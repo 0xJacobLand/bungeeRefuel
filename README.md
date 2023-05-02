@@ -1,2 +1,2 @@
-# bungeeRefuel
+# bungeeRefuel, bungee.exchange/refuel
 Устанавливаете зависимости, в файл private кидаете приватники с новой строки, остальное в комментах к мейн файлу
